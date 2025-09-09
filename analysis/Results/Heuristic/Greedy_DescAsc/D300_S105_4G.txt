@@ -1,0 +1,2 @@
+Devices;Servers;Tech;ExeTime;DCovered;DServed;DServedEC;DServedCC;SUsed;SUsedEC;SUsedCC;TotalCost;CostNCoverage;CostNService;CostS;Avg.RTime
+300;105;4;0.000332;94.3333;67.0000;97.5124;2.4876;83.8095;83.0000;100.0000;706.366710;107.500000;598.600000;0.266710;122.591471

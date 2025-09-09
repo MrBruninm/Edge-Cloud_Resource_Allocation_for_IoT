@@ -3,10 +3,6 @@ build/
 [Bb]uild/
 *.build/
 
-# Pasta de resultados da simulação
-Results/
-[Rr]esults/
-
 # Pastas de dados gerados (cache)
 data/devices/
 data/servers/
