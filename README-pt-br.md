@@ -26,8 +26,8 @@ Uma estrutura de simulação em C++ para otimizar a alocação de recursos em um
 ├── include/              # Arquivos de cabeçalho (.h)
 ├── src/                  # Arquivos de código-fonte (.cpp)
 ├── data/                 # Arquivos de dados base para geração
-├── Results/              # Diretório de saída para os resultados (ignorado pelo git)
 ├── analysis/             # Arquivos de análise (ex: planilhas com gráficos)
+├── Results/              # Diretório de saída para os resultados 
 ├── build/                # Diretório de compilação (ignorado pelo git)
 ├── .gitignore            # Arquivo do Git para ignorar arquivos
 └── README.md             # Este arquivo

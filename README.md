@@ -27,7 +27,7 @@ A C++ simulation framework for optimizing resource allocation in a network of de
 ├── src/                  # Source files (.cpp)
 ├── data/                 # Base data files for generation
 ├── analysis/             # Analysis files (e.g., spreadsheets with charts)
-├── Results/              # Output directory for simulation results (ignored by git)
+├── Results/              # Output directory for simulation results
 ├── build/                # Build directory (ignored by git)
 ├── .gitignore            # Git ignore file
 └── README.md             # This file
