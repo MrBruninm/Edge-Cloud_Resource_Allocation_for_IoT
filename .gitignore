@@ -1,19 +1,19 @@
-# Arquivos de compilação do CMake
+# CMake build files
 build/
 [Bb]uild/
 *.build/
 
-# Pastas de dados gerados (cache)
+# Generated data folders (cache)
 data/devices/
 data/servers/
 
-# Executáveis e bibliotecas
+# Executables and libraries
 *.exe
 *.out
 *.a
 *.so
 *.dll
 
-# Arquivos de Sistema Operacional
+# Operating System files
 .DS_Store
 Thumbs.db
